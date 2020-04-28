@@ -1,5 +1,5 @@
 # ```Image Classification ```
-#(img/logo.png)
+# ![logo](img/logo.png)
 ## Description
 ``` 
 This project is for images classification on simple and fiheye images
