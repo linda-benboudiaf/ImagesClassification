@@ -17,5 +17,5 @@ git clone https://github.com/lindaAcc/ImagesClassification.git
 - Linda Ben boudiaf -> [lindaAcc](https://github.com/lindaAcc)
 
 ## Supervisor
-- Florence Cloppet -> [link](http://helios.mi.parisdescartes.fr/~cloppet/)
-- Camille Kurtz -> [link](http://camille-kurtz.com/)
+- [Florence Cloppet](http://helios.mi.parisdescartes.fr/~cloppet/) 
+- [Camille Kurtz](http://camille-kurtz.com/)
