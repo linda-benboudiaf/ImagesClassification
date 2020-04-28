@@ -1,5 +1,6 @@
 # ```Image Classification ```
 # ![logo](img/logo.png)
+
 ## Description
 ``` 
 This project is for images classification on simple and fiheye images
@@ -15,7 +16,7 @@ git clone https://github.com/lindaAcc/ImagesClassification.git
 ## Authors 
 - Youssra Bourkhich
 - Linda Ben boudiaf -> [lindaAcc](https://github.com/lindaAcc)
-
-## Supervisor
+---
+## Supervisors
 - [Florence Cloppet](http://helios.mi.parisdescartes.fr/~cloppet/) 
 - [Camille Kurtz](http://camille-kurtz.com/)
