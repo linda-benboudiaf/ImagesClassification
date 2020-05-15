@@ -13,9 +13,9 @@ from skimage import io, transform
 import matplotlib.pyplot as plt
 warnings.filterwarnings("ignore")
 plt.ion()
-data_dir = "/home/lbenboudiaf/Bureau/ImagesClassification/dataset/GroceryStoreDataset/dataset/OneClasse"
+data_dir = "/home/lbenboudiaf/Bureau/ImagesClassification/dataset/GroceryStoreDataset/dataset/subClasses"
 model_name = "squeezenet"
-num_classes = 3
+num_classes = 43
 batch_size = 8
 num_epochs = 30 #Valeur Initiale par défaut comme dans le TP du Prof
 feature_extract = True
